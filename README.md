@@ -26,8 +26,3 @@ A custom `__str__` method prints a formatted summary of the ledger.
 The `create_spend_chart()` function builds a **vertical bar chart** that shows the percentage of total spending for each category.
 
 ---
-
-## 📦 Project Structure
-
-```text
-budget_tracker.py
